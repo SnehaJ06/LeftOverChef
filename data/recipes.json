@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Tomato Pasta",
+    "cuisine": "Italian",
+    "time": 25,
+    "ingredients": ["pasta", "tomato", "garlic", "olive oil", "onion", "salt"],
+    "steps": [
+      "Boil pasta in salted water until al dente.",
+      "Saute chopped onion and garlic in olive oil.",
+      "Add chopped tomatoes and simmer 10 minutes.",
+      "Toss the drained pasta in the sauce and serve."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Veggie Fried Rice",
+    "cuisine": "Asian",
+    "time": 20,
+    "ingredients": ["rice", "egg", "carrot", "peas", "soy sauce", "onion", "garlic"],
+    "steps": [
+      "Scramble the eggs and set aside.",
+      "Stir-fry onion, garlic, carrot and peas.",
+      "Add cooked rice and soy sauce.",
+      "Mix in the eggs and stir-fry for 2 minutes."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Cheese Omelette",
+    "cuisine": "Breakfast",
+    "time": 10,
+    "ingredients": ["egg", "cheese", "butter", "salt", "pepper"],
+    "steps": [
+      "Whisk eggs with salt and pepper.",
+      "Melt butter in a pan over medium heat.",
+      "Pour eggs, add cheese as they set.",
+      "Fold and serve warm."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chicken Stir Fry",
+    "cuisine": "Asian",
+    "time": 30,
+    "ingredients": ["chicken", "bell pepper", "onion", "garlic", "soy sauce", "ginger", "oil"],
+    "steps": [
+      "Slice chicken and vegetables.",
+      "Stir-fry chicken until golden.",
+      "Add vegetables, garlic and ginger.",
+      "Pour soy sauce and cook 5 more minutes."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Garlic Butter Toast",
+    "cuisine": "Snack",
+    "time": 8,
+    "ingredients": ["bread", "butter", "garlic", "salt"],
+    "steps": [
+      "Mix softened butter with minced garlic and salt.",
+      "Spread over bread slices.",
+      "Toast until golden and crisp."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tomato Onion Salad",
+    "cuisine": "Salad",
+    "time": 10,
+    "ingredients": ["tomato", "onion", "olive oil", "salt", "lemon"],
+    "steps": [
+      "Chop tomatoes and onions.",
+      "Add olive oil, lemon juice and salt.",
+      "Toss and chill before serving."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Potato Curry",
+    "cuisine": "Indian",
+    "time": 35,
+    "ingredients": ["potato", "onion", "tomato", "garlic", "ginger", "oil", "salt", "chili"],
+    "steps": [
+      "Saute onion, garlic and ginger in oil.",
+      "Add tomato and spices, cook to a paste.",
+      "Add cubed potatoes and water.",
+      "Simmer until potatoes are tender."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Pancakes",
+    "cuisine": "Breakfast",
+    "time": 20,
+    "ingredients": ["flour", "egg", "milk", "sugar", "butter", "salt"],
+    "steps": [
+      "Whisk flour, egg, milk, sugar and salt into a batter.",
+      "Heat a buttered pan.",
+      "Pour batter and cook until bubbles form.",
+      "Flip and cook the other side."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Grilled Cheese Sandwich",
+    "cuisine": "Snack",
+    "time": 12,
+    "ingredients": ["bread", "cheese", "butter"],
+    "steps": [
+      "Butter the outside of two bread slices.",
+      "Place cheese between them.",
+      "Grill in a pan until golden on both sides."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Vegetable Soup",
+    "cuisine": "Soup",
+    "time": 30,
+    "ingredients": ["carrot", "onion", "potato", "garlic", "tomato", "salt", "pepper"],
+    "steps": [
+      "Chop all vegetables.",
+      "Saute onion and garlic.",
+      "Add the rest with water and simmer 20 minutes.",
+      "Season and serve hot."
+    ]
+  }
+]

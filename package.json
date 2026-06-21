@@ -1,0 +1,13 @@
+{
+  "name": "leftoverchef",
+  "version": "1.0.0",
+  "description": "What Can I Cook? - Enter ingredients you have, get recipes you can make.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
