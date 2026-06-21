@@ -1,4 +1,4 @@
-# 🍱 LeftoverChef — "What Can I Cook?"
+#  LeftoverChef — "What Can I Cook?"
 
 Enter the ingredients you have at home and the app suggests recipes you can actually make. Save your favorites for later.
 
